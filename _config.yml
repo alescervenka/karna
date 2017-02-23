@@ -1,11 +1,11 @@
 
-title: Karna
-desctiption: Karna is a responsive jekyll theme which includes pinterest like pins.
-url: http://webjeda.com/
+title: Pastinak
+desctiption: Pastinak is a blog on match, statistics, data mining and cooking.
+url: http://pastinak.cz/
 permalink: ':title/'
 
 markdown: kramdown
-baseurl: "/karna"
+baseurl: ""
 
 
 sass:
