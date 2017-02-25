@@ -1,6 +1,6 @@
 
 title: Pastinak
-desctiption: Pastinak is a blog on match, statistics, data mining and cooking.
+desctiption: Pastinak is a blog on math, statistics, data mining and cooking.
 url: http://pastinak.cz/
 permalink: ':title/'
 
@@ -31,7 +31,7 @@ highlight: rouge
 analytics: UA-83979019-1
 
 # Comments
-disqus-shortname: webjeda-demo
+disqus-shortname: pastinak
 
 # Contact form
 # Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
