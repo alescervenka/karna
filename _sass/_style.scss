@@ -330,3 +330,27 @@ table {
 .active {
     font-weight: 700;
 }
+
+#fbs {
+  background: url(../images/fb26.png) no-repeat;
+  background-size: 26px 26px;
+  margin: 10px 8px 10px 0px;
+  width: 26px;
+  text-decoration: none;
+  border-radius: 3px;
+  padding: 0;
+  height: 26px;
+  display: inline-flex;
+}
+
+#lns {
+  background: url(../images/li26.png) no-repeat;
+  background-size: 26px 26px;
+  margin: 10px 0 0 0px;
+  width: 26px;
+  text-decoration: none;
+  border-radius: 3px;
+  padding: 0;
+  height: 26px;
+  display: inline-flex;
+}
