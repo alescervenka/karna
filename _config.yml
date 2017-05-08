@@ -1,7 +1,7 @@
 
 title: Pastinak
 desctiption: Pastinak is a blog on math, statistics, data mining and cooking.
-url: http://pastinak.cz/
+url: https://www.pastinak.cz/
 permalink: ':title/'
 
 markdown: kramdown

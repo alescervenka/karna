@@ -21,7 +21,7 @@ I higly recommend going through the [Differential Calculus](https://www.khanacad
 
 # Installing YACAS and Ryacas
 
-YACAS (*Yet Another Computer Algebra System*) is a computer algebra system and I will use it in this post to determine derivatives of elementary functions. And because I will be using it from within the RStudio, I will not only need to install the YACAS as such but also a Ryacas plugin as well. The Ryacas is an R plugin which makes it possible for you to call YACAS functions in your R code.
+YACAS (*Yet Another Computer Algebra System*) is a computer algebra system and I will use it in this post to determine derivatives of elementary functions. And because I will be using it from within the RStudio, I will not only need to install the YACAS as such but you need to install the Ryacas plugin as well. The Ryacas is an R plugin which makes it possible for you to call YACAS functions in your R code.
 
 First off, download the YACAS from its [download page](http://www.yacas.org/getting_started/downloads/) and follow installation instructions pertinent to your operating system. This is what I had to do on my Ubuntu 16.04:
 
@@ -60,7 +60,7 @@ D(expression(6), "x")
 
 and you'll get 0.
 
-## Linear function
+## Linear functions
 
 Try 
 
@@ -121,7 +121,7 @@ yacas("D(x)Ln(x)")
 
 to get _1/x_.
 
-# Plotting a Derivative Function
+# Plotting Derivatives
 
 Do the following in order to plot a sine function and its derivative:
 
@@ -150,8 +150,10 @@ Both approaches produce the following plot:
 
 # Further Reading
 
+* [Using R as a Computer Algebra System with Ryacas](https://www.r-bloggers.com/using-r-as-a-computer-algebra-system-with-ryacas/amp/)
 * [https://cran.r-project.org/web/packages/Ryacas/vignettes/Ryacas.pdf](https://cran.r-project.org/web/packages/Ryacas/vignettes/Ryacas.pdf)
 * [https://cran.r-project.org/web/packages/Ryacas/Ryacas.pdf](https://cran.r-project.org/web/packages/Ryacas/Ryacas.pdf)
+
 
 
 {::comment}
