@@ -12,7 +12,7 @@ author: alyosha
 
 Prozradím vám jednoduchý trik, jak rozpoznat pastinák od petržele.
 
-# Provnání
+# Porovnání
 
 Na následující fotografii vidíte vršky kořene pastináku (vlevo) a petržele (vpravo) poté, co jsme odstranili jejich nať.
 
