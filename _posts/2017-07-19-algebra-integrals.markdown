@@ -4,7 +4,7 @@ title:  "Algebra in R: Integrals"
 description: Let's use the R and RStudio to integrate elementary functions!
 date:   2017-07-19 07:3S0:00 +0530
 categories: jekyll update
-img: board_derivatives.jpg
+img: board_integrals.jpg
 categories: [statistics]
 color: BF360C
 author: alyosha
