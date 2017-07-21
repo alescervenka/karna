@@ -1,11 +1,14 @@
 ---
 layout: default
+category: 'yes'
+author: alyosha
 ---
 <div id="container">
 <div id="grid" data-columns class="cols">
 
     {% for post in site.posts %}
       {% unless post.category == "yes" %}
+        {% if post.categories contains "math" %}
     <div class="box" style="background-color:#{{post.color}}">
        {% if post.img %}
           <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
@@ -16,6 +19,7 @@ layout: default
              <div class="action">{{ post.date | date: '%B %d, %Y' }}<a href="{{post.url | prepend: site.baseurl}}"><i class="fa fa-arrow-right" aria-hidden="true"></i></a></div> 
         </div>   
     </div>
+        {% endif %}
       {% endunless %}
    {% endfor %}
 

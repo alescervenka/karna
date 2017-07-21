@@ -5,7 +5,7 @@ description: I'm gonna use the R and RStudio a lot in the subsequent posts, whic
 date:   2017-02-25 07:3S0:00 +0530
 categories: jekyll update
 img: installing-r-01.jpg
-categories: [statistics]
+categories: [math]
 color: 43A047
 author: alyosha
 ---

@@ -5,7 +5,7 @@ description: Do Rogerova chili se dávají celé čili papričky. Fazolový gul�
 date:   2017-06-02 07:3S0:00 +0530
 categories: jekyll update
 img: chili.jpg
-categories: [statistics]
+categories: [cooking]
 color: f44336
 author: alyosha
 ---

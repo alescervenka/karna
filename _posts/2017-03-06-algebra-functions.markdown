@@ -5,7 +5,7 @@ description: Let's use the R and RStudio to plot functions and figure out what i
 date:   2017-03-06 07:3S0:00 +0530
 categories: jekyll update
 img: board_functions.jpg
-categories: [statistics]
+categories: [math]
 color: 1976D2
 author: alyosha
 ---

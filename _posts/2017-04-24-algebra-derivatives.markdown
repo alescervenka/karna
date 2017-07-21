@@ -5,7 +5,7 @@ description: Let's use the R and RStudio to derive and plot derivatives of eleme
 date:   2017-04-24 07:3S0:00 +0530
 categories: jekyll update
 img: board_derivatives.jpg
-categories: [statistics]
+categories: [math]
 color: 00897B
 author: alyosha
 ---

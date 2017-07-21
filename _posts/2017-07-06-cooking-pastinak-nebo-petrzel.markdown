@@ -5,7 +5,7 @@ description: Prozradím vám jednoduchý trik, jak rozpoznat pastinák od petrž
 date:   2017-07-06 07:3S0:00 +0530
 categories: jekyll update
 img: pastinakapetrzel01.jpg
-categories: [statistics]
+categories: [cooking]
 color: 7E57C2
 author: alyosha
 ---
