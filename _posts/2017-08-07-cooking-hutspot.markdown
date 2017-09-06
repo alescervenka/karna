@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vaření: Hutspot"
+title:  "Recept: Hutspot"
 description: Hutspot je holandská (a proto oranžová) bramborová kaše.
 date:   2017-08-07 07:3S0:00 +0530
 categories: jekyll update
