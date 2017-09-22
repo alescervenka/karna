@@ -44,7 +44,17 @@ If you decide to go with the free version, click on the *Download* button locate
 
 ## Installation
 
-Run the installer. When it completes, start the RStudio Desktop so that you can inspect it's user interface. 
+Run the installer. When it completes, start the RStudio Desktop so that you can inspect it's user interface.
+
+# Getting Help on R
+
+You may want to go through the [Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.html) to familiarize yourself with the R language.
+
+Also, please keep in mind that you can invoke documentation on any R function by running _?functionname_ in the RStudio's console. For example, the command below will get you documentation on the _lm_ function:
+
+```script
+?lm
+```
 
 # Working with Projects
 
