@@ -46,16 +46,6 @@ If you decide to go with the free version, click on the *Download* button locate
 
 Run the installer. When it completes, start the RStudio Desktop so that you can inspect it's user interface.
 
-# Getting Help on R
-
-You may want to go through the [Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.html) to familiarize yourself with the R language.
-
-Also, please keep in mind that you can invoke documentation on any R function by running _?functionname_ in the RStudio's console. For example, the command below will get you documentation on the _lm_ function:
-
-```script
-?lm
-```
-
 # Working with Projects
 
 Download the [Functions.zip](https://github.com/alescervenka/pastinak-examples/raw/master/zip/Functions.zip) archive --it contains a sample project which we will use in this section to describe various tabs of the RStudio. After the archive has been downloaded, extract it, go into a newly created Functions folder and double-click on the Functions.Rproj icon. This opens up the Functions project in the RStudio.
@@ -77,6 +67,44 @@ The combination of Ctrl+Enter actually executes a selected portion of a script, 
 
 ![Files Tab]({{site.baseurl}}/images-hq/rstudio_execute.png)
 
+# Getting Help on R
+
+You may want to go through the [Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.html) to familiarize yourself with the R language.
+
+Also, please keep in mind that you can invoke documentation on any R function by running _?functionname_ in the RStudio's console. For example, the command below will get you documentation on the _lm_ function:
+
+```script
+?lm
+```
+
+If you want to study documentation of a particular package issue the command _library(help = "packagename")_. For example, you can use the following command in order to get documentation for the datasets package:
+
+```script
+library(help = "datasets")
+```
+
+# Getting Sample Data
+
+Sample data will certainly come in handy when you will be learning the R language or functions in its' packages. 
+
+The following commands can be used to load and explore the _Iris_ data set from the datasets package (comes with the standard R installation):
+
+```script
+data(iris)
+dim(iris)
+levels(iris$Species)
+head(iris)
+```
+Or you can install a new package with new data sets, as illustrated below:
+
+```script
+install.library("mlbench")
+library(mlbench)
+library(help = "mlbench")
+data(BostonHousing)
+dim(BostonHousing)
+head(BostonHousing)
+```
 
 # Further Learning Resources
 
@@ -87,6 +115,12 @@ The combination of Ctrl+Enter actually executes a selected portion of a script, 
 ## YouTube
 
 * [Getting started with R and RStudio](https://www.youtube.com/watch?v=lVKMsaWju8w)
+
+## Data Sets
+
+* [Machine Learning Datasets in R (10 datasets you can use right now)](https://machinelearningmastery.com/machine-learning-datasets-in-r/)
+* [The R Datasets Package](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html)
+* [R Built-in Data Sets](http://www.sthda.com/english/wiki/r-built-in-data-sets)
 
 {::comment}
 # Opening and Saving Projects
