@@ -77,7 +77,7 @@ Also, please keep in mind that you can invoke documentation on any R function by
 ?lm
 ```
 
-If you want to study documentation of a particular package issue the command _library(help = "packagename")_. For example, you can use the following command in order to get documentation for the datasets package:
+If you want to study documentation of a particular package, issue the command _library(help = "packagename")_. For example, you can use the following command in order to get documentation for the datasets package:
 
 ```script
 library(help = "datasets")
@@ -87,7 +87,7 @@ library(help = "datasets")
 
 Sample data will certainly come in handy when you will be learning the R language or functions in its' packages. 
 
-The following commands can be used to load and explore the _Iris_ data set from the datasets package (comes with the standard R installation):
+The following commands can be used to load and explore the _Iris_ data set from the datasets package (it comes with the standard R installation):
 
 ```script
 data(iris)
