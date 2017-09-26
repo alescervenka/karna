@@ -10,10 +10,11 @@ color: 00897B
 author: alyosha
 ---
 
-Máte-li rádi papriky a rajčata, lečo je dost možná jídlo právě pro vás. Mohu doporučit recept na [Recepty.cz](http://www.recepty.cz/recept/prave-madarske-leco-18483). Vařím ho ovšem se dvěma obměnami:
+Máte-li rádi papriky a rajčata, lečo je dost možná jídlo právě pro vás. Mohu doporučit recept na [Recepty.cz](http://www.recepty.cz/recept/prave-madarske-leco-18483). Vařím ho ovšem se dvěma až třemi obměnami:
 
 1. S rajčaty přidávám ještě malou plechovku rajčatového protlaku.
 2. Rozšlehaná vejce nejdříve osmažím samostatně na pánvi, jako bych dělal vaječinu. Až poté je přimíchám do leča.
+3. Místo klobásy je možno použít uzené či marinované tofu.
 
 Podáváme s pečivem.
 

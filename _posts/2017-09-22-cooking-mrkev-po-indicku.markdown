@@ -14,7 +14,7 @@ Jednoduché a přesto velmi chutné jídlo z těstovin a mrkve.
 
 # Suroviny
 
-* 200 g mrkve
+* 800 g mrkve
 * 200g špaget či jiných těstovin
 * 20 g tuku nebo oleje
 * 2 čajové lžičky karí koření
@@ -24,7 +24,7 @@ Jednoduché a přesto velmi chutné jídlo z těstovin a mrkve.
 # Postup
 
 1. Těstoviny uvaříme ve slané vodě. 
-2. Mrkev očistíme a podélně nakrájíme na nudličky (škrabkou na brambory). Na pánvi rozehřejeme tuk, přidáme kari, mrkev a mírně dusíme 5 minut. 
+2. Mrkev očistíme a podélně nakrájíme na nudličky (škrabkou na brambory). Na pánvi rozehřejeme tuk, přidáme kari, mrkev a mírně dusíme 20 minut.
 3. Potom vmícháme kysanou smetanu a těstoviny. Před podávaním posypeme petrželkou.
 
 
