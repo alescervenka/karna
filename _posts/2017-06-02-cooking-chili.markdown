@@ -34,7 +34,7 @@ Na čtyři porce potřebujeme
 3. obsah pávne přelijeme do papiňáku a dolejeme to hovězím vývarem (po rysku označující 1 litr). 
 4. do hrnce přidáme většinu chili papriček. Několik papriček (například čtyři) je možné odložit stranou na později. Čím větší poměr papriček přidáme v pozdější fázi, tím víc pak jídlo pálí. Tento krok přeskočíme, pokud připravujeme fazolový guláš.
 5. vaříme v zavřeném papiňáku 50 minut. Prvních čtyřicet minut na mírném plameni, pak sporák vypneme a necháme to posledních 10 minut dojít.
-6. zatím co se maso vaří v papiňáku, nakrájíme rajčata, smícháme je s protlakem, zbylými papričkami a pokud děláme fazolový guláš, přidáme místo papriček kukuřici
+6. zatím co se maso vaří v papiňáku, nakrájíme rajčata, smícháme je s fazolemi, protlakem a zbylými papričkami. Pokud děláme fazolový guláš, přidáme místo papriček kukuřici
 7. po otevření papiňáku do něj nalijeme připravenou rajčatovo-zeleninovou směs a otevřené necháme vařit asi deset minut
 8. necháme trochu zchládnout. Fazolový guláš se může konzumovat hned, chili je lepší nechat odležet přes noc v ledničce.
 
